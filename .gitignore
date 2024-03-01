@@ -9,3 +9,8 @@ __pycache__/
 *.zip
 *.txt
 *.json
+*.gdx
+*.log*
+*.lst
+*.lxi
+*.gsp
